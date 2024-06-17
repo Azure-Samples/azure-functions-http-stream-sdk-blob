@@ -1,0 +1,13 @@
+azure-functions
+requests
+azure-storage-blob
+aiohttp
+# bottle
+# az
+azurefunctions-extensions-http-fastapi
+
+
+--index-url https://test.pypi.org/simple/
+--extra-index-url https://pypi.org/simple
+--pre
+azurefunctions-extensions-bindings-blob==1.0.0a2
